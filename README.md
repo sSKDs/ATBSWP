@@ -1,2 +1,2 @@
 # ATBSWP
-Automate the boring stuff with Python exercise code files
+Contains the code files for the exercises in the book called Automate the boring stuff with Python.
